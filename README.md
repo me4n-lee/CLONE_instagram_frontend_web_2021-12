@@ -1,1 +1,1 @@
-instagram-min-web
+frontend
